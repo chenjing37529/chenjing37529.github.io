@@ -146,6 +146,10 @@ body {
 	margin-bottom: 2vw;
 }
 
+.todo-list:empty {
+	display: none;
+}
+
 .todo-list::-webkit-scrollbar {
 	display: none;
 }
