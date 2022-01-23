@@ -113,6 +113,8 @@ body {
 	background: #ffffff;
 	padding:1vw;
 	border-left:1px solid #000000;
+	font-size: 2vw;
+    height: 3vw;
 	cursor: pointer;
 }
 
